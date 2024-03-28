@@ -1,0 +1,28 @@
+Ce document est mon de compte-rendu concernant la création du forum HelloWorldCode.
+
+I. Objectifs
+L’objectif était de créer un lieu d’échange pour les passionnés des langages de programmation, un espace où les développeurs de tous niveaux 
+peuvent se connecter, partager leurs connaissances et résoudre des problèmes de codage ensemble. 
+
+
+II. Actions à mener selon les besoins
+
+– Premièrement besoin d'un système d'inscription, de connexion et de déconnexion.
+
+– Deuxièmement, permettre à un utilisateur publier une question (connectée avec son compte si n'est pas connecté, instruction impossible (TRÈS IMPORTANT)).
+
+– Troisièmement, afficher les questions publiées par l'utilisateur.
+
+– Quatrièmement, pouvoir modifier une question et la supprimer.
+
+– Cinquièmement, rechercher et afficher des questions.
+
+– Sixièmement, Afficher le contenu d'une question.
+
+– Septièmement, Répondre à une question.
+
+– Huitièmement, Afficher le profil d'un utilisateur avec ses publications.
+
+V. Commentaires et interventions
+
+J'ai réalisé toutes les actions qui étaient demandées j'ai aussi ajouter des messages d'erreurs et succès logiques.

@@ -1,0 +1,24 @@
+L’objectif est de créer HelloWorldCode, un forum pour les passionnés des langages de programmation, un espace où les développeurs de tous niveaux peuvent s'entraider.
+
+Le back-end de notre forum devra être gérer avec PHP et MySQL ou les données des utilisateurs seront gérer et stocké assurant la sécurité et la gestion efficace des données
+
+Le front-end offrira à l'utilisateur une interface moderne et dynamique. 
+Sur HELLO WORLD CODE, les utilisateurs devront avoir la possibilité de créer un compte, de s'authentifier, d'éditer, publier, supprimer leurs publications et de découvrir et interagir avec le travail des autres utilisateurs.
+
+Pour ce forum basé sur le monde du codage, nous avons besoin :
+
+– Premièrement besoin d'un système d'inscription, de connexion et de déconnexion.
+
+– Deuxièmement, permettre à un utilisateur publier une question (connectée avec son compte si n'est pas connecté, instruction impossible (TRÈS IMPORTANT)).
+
+– Troisièmement, afficher les questions publiées par l'utilisateur.
+
+– Quatrièmement, pouvoir modifier une question et la supprimer.
+
+– Cinquièmement, rechercher et afficher des questions.
+
+– Sixièmement, Afficher le contenu d'une question.
+
+– Septièmement, Répondre à une question.
+
+– Huitièmement, Afficher le profil d'un utilisateur avec ses publications.

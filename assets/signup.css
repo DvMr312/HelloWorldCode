@@ -1,0 +1,11 @@
+.form-text{
+    color: rgb(136, 0, 255);
+}
+.form-control{
+    border-color: rgba(0, 0, 0, 0.328);
+    border-radius: 10px;
+    padding: 10px;
+    background-color: rgba(245, 237, 237, 0.816);
+    margin-bottom: 5px;
+    outline: none;
+}
